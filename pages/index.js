@@ -1,5 +1,5 @@
 function Home() {
-    return <div>Home 4</div>
+    return <div>Now it's updated. go to <a href="/contato">Contato</a></div>
 }
 
 export default Home;
