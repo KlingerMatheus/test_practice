@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/KlingerMatheus/test_practice#readme",
   "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
     "next": "^10.0.5",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
