@@ -1,12 +1,12 @@
 function Home() {
-    return <div>Now it's updated. <lcase>GO TO:</lcase> <a href="/contato">Contato</a></div>
+    return <div>Now it's updated. <lcase>go to:</lcase> <a href="/contato">Contato</a></div>
 }
 
-function lcase(props) {
+function Capslock(props) {
     const value = props.children
-    const valueLCase = value.toLowerCase()
+    const valueLCase = value.toUpperCase()
 
-    return <lcase>{valueLCase}</lcase>
+    return <Capslock>{valueLCase}</Capslock>
 }
 
 export default Home

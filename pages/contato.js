@@ -1,6 +1,6 @@
 function Contato(){
-    return (<div>Eae Galera, volte  <a href="/index">Home</a>
-            <Capslock texto="Klinger Matheus Vieira da Silva" /></div>)
+    return <div>Eae Galera, volte  <a href="/index">Home</a>
+            <Capslock texto="Klinger Matheus Vieira da Silva" /></div>
 }
 
 function Capslock(props) {
